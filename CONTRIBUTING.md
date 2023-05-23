@@ -30,7 +30,7 @@
 ## Project Maintainers
 
 **Repository Owner**: \
-&nbsp;&nbsp;&nbsp;&nbsp;{{gpas}{owner-full-name}} ([@{{gpas}{owner-github-username}}](http://github.com/{{gpas}{owner-github-username}})).
+&nbsp;&nbsp;&nbsp;&nbsp;Robert Zack Jaidyn Norris-Karr ([@rzjnzk](http://github.com/rzjnzk)).
 
 ---
 
